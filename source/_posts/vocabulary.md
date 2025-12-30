@@ -23,5 +23,6 @@ tags:
 <li style="text-align: center; font-weight: bold; font-size: 16px;">eloquence 口才</li>
 <li style="text-align: center; font-weight: bold; font-size: 16px;">scapegoat 替罪羊</li>
 <li style="text-align: center; font-weight: bold; font-size: 16px;">lottery 摇奖/彩票</li>
+<li style="text-align: center; font-weight: bold; font-size: 16px;">novice 新手</li>
 
 </ul>
