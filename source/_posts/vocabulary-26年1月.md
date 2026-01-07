@@ -13,5 +13,9 @@ tags: 26-01
 <li style="text-align: center; font-weight: bold; font-size: 16px;">domain 域名/领域/范畴</li>
 <li style="text-align: center; font-weight: bold; font-size: 16px;">embarrassing 难言之隐/尴尬的</li>
 <li style="text-align: center; font-weight: bold; font-size: 16px;">folks 人们/大伙/家人们</li>
+<li style="text-align: center; font-weight: bold; font-size: 16px;">handy 好用的/顺手的</li>
+<li style="text-align: center; font-weight: bold; font-size: 16px;">frequent 常见的/频繁的</li>
+<li style="text-align: center; font-weight: bold; font-size: 16px;">pit n.坑/陷阱 v.陷害/挖坑</li>
+<li style="text-align: center; font-weight: bold; font-size: 16px;">flaw 缺陷/毛病</li>
 
 </ul>
