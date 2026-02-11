@@ -2,6 +2,7 @@
 title: vocabulary 26年1月
 date: 2026-01-07 10:29:57
 tags: 26-01
+hide: true
 ---
 
 <ul style="display: grid; grid-template-columns: repeat(3, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;">
