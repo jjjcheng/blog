@@ -19,5 +19,13 @@ about:
 
 favicon: /img/favicon.ico
 
+post:
+  comments:
+    enable: true
+    type: disqus
+
+disqus:
+  shortname: fluid
+  
 footer:
   content: ""
