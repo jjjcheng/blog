@@ -21,7 +21,7 @@ favicon: /img/favicon.ico
 
 post:
   comments:
-    enable: true
+    enable: false
     type: disqus
 
 disqus:
